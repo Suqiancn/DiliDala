@@ -1,2 +1,2 @@
 # Dilidala
-第三方基于flutter的抖音客户端
+一个基于flutter的抖音第三方客户端
